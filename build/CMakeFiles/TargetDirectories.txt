@@ -1,0 +1,3 @@
+/home/name/cpp/http2/vortex/src/http/test/build/CMakeFiles/TPEngine.dir
+/home/name/cpp/http2/vortex/src/http/test/build/CMakeFiles/edit_cache.dir
+/home/name/cpp/http2/vortex/src/http/test/build/CMakeFiles/rebuild_cache.dir
